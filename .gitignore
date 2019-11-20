@@ -1,0 +1,6 @@
+# editor config
+.vscode/
+
+# executables
+*.exe
+*.out
