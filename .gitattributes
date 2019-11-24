@@ -1,1 +1,5 @@
 * text=auto
+
+# Remove Logistics
+.gitignore      export-ignore
+.gitattributes  export-ignore
